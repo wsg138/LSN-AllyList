@@ -1,0 +1,169 @@
+{
+  "version": 1,
+  "updated": "2026-01-09T20:52:32Z",
+  "teams": {
+    "Havoc": {
+      "uuids": [
+        "47dbc5c4d3e44b92b241dde2ed212f8a",
+        "51bfc01f7aff471e999dc35688d4b04a",
+        "5911b5b786a94242ac7a88732a13183b",
+        "947e63ec1f95434d82a8c14d75752feb",
+        "a2f1a82a5ac14ecdad5bd3ccf191a7df",
+        "b6128445ad0645f9bf5c0ef08f1c563f",
+        "b7b39e8558b2448890003aef4721a145",
+        "de8ab39f71574aab8906f72890a5e93b",
+        "eba7ae93bf5e4c28a62508768d341609"
+      ],
+      "names": [
+        "Dxrk jj"
+      ]
+    },
+    "Gentlemen": {
+      "uuids": [
+        "0e1aed7ec6e841bb87ed9aa4308c4e1b",
+        "253e116fb5cf4bcca6fb6a7abe07ebe4",
+        "34eb73046282478f9df1fd42347db32d",
+        "4103c60ea1864b388a5a97cea23959e2",
+        "45282223cc57468d97d532cf8e9592a0",
+        "5578fa32b1be4167bc37b8baa9921b66",
+        "708cfe2db7c54ec38f0d7c7a327378a3",
+        "bb052511088d4abfa227c55b0b24b9fc",
+        "c1aec04e49e2418cabbf21ae4d866136",
+        "ffbe0c0be0dd4148a0e8fdd88614f4e2"
+      ],
+      "names": []
+    },
+    "Badmen": {
+      "uuids": [
+        "0a44047cdcc94a75b2015bc4cbe04514",
+        "292217612c864260804dc32d49d16f6e",
+        "3b1a24d307fb4d13884dde97e70a8517",
+        "5e5b1c1ec333408b936b53566afc2541",
+        "661fb6abd5eb4953b0bb5f3daaa19571",
+        "8baa90d1474f48498d005980a66dc4d4",
+        "9e3a596fd6b44399b32068979e8688ac",
+        "b70429ca4a48414eaabf5b8002203e0c",
+        "c75318478efa46d7855c34643cbe4782"
+      ],
+      "names": [
+        "BigB0yBill"
+      ]
+    },
+    "Mayhem": {
+      "uuids": [
+        "029faca376a14cddaaa1eb2f290ba82c",
+        "3325ba4bdf004e46805c3c0c4321e166",
+        "37577d420f03465abd0d6055f63fdd2e",
+        "4c2aeebfa53e4aeca11a5afc33597302",
+        "7810f763e63e4c1eb6e6e8fffe7a7d3e",
+        "aba72d33ec964f858d6edb5638c1a4db",
+        "b70429ca4a48414eaabf5b8002203e0c",
+        "e57289262d744915a18ef7e365ed63a1",
+        "fdea9057135e4770851bfb50bf2b5228"
+      ],
+      "names": [
+        "Pawillionaire",
+        "Underthemistelo"
+      ]
+    },
+    "Chaos": {
+      "uuids": [
+        "001cdb8efd3c48308f5b4719e75982d4",
+        "0ecab57d4c2c4cd98d9b7ee5e4e0e2a6",
+        "26f760e5b984438d879f23734f516373",
+        "3eb4cc55913245f2a112e1c9ed102bd5",
+        "8c66dfe5b8ec477ba05685f8232b6312",
+        "9fbf2805453040378560f9481967dea2",
+        "bd821b574f704bd79ddbd934c56df966",
+        "e52fb8a31f0b4fd88233131c0e23ddf7",
+        "ebde8a6944394919a636881a549e2488"
+      ],
+      "names": []
+    },
+    "Ragnarok": {
+      "uuids": [
+        "169a23248d384a2abd5073554aa513cb",
+        "27023329fa164868bcc7fde26f3e1642",
+        "2d6a61444efc4fe8a928ba3ad9d79991",
+        "4145a2f128e34122b7981ca30fe21c1b",
+        "84b2d93558574970bee990d44049b871",
+        "852e8608c3354d0e8843e1c11a8c39b0",
+        "9e6afec675654631b026577d4289a46d",
+        "9fbba0f17e314411804acdfe696a0c19",
+        "a3a942e8e33244b18d97cf3ff335b684",
+        "a92abb07e8524397be8534944d0fcb18",
+        "b2d4d94eba7c41e2a3480f3e5d940641",
+        "c9cc92aeff04452fbbee8b341c291b6e",
+        "d761d63241b04ddf8630301b44ce451a",
+        "e3b64b67f31a4b039069e46a459b473b",
+        "f46354467e1b4e15a45a384860a6c6f9",
+        "f969248d0482493ebe5f9c9f1aae9789"
+      ],
+      "names": [
+        "Charie_is_dumb"
+      ]
+    },
+    "Labubu Land": {
+      "uuids": [
+        "18dd2847d79144baa98df82499c0a440",
+        "23eda9e24899451eb8eb3d97d7db5d6f",
+        "45d9434f3e7d4194ae343c5c4349aa1c",
+        "4d3b449344b54514bb83c41cb721cc48",
+        "5ded657c67c74209ab45286c519bae48",
+        "88238aebb19c48e3a0669effae756036",
+        "8a1fb0bb18d84cf4994ceee22ec9d8f4",
+        "b231b1018fe44577ae284f2a4961e0da",
+        "d411451fde4140c3b1bc38658a390e39"
+      ],
+      "names": [
+        "Diamondthefull",
+        "faded_monkey"
+      ]
+    },
+    "MPA": {
+      "uuids": [
+        "0781ff2b016541d0af6e515ed261c6df",
+        "26c4adac22e6428da3ca518b91abfc62",
+        "429a8999365349969e8a06f387fb1545",
+        "4592a5c2c6ea426e90190d2bb84e8476",
+        "52931a651aaa461499119d00db750d20",
+        "5da458aa383540129cfd9ee4430ad995",
+        "5e91b99623914087a4e5c45586d980a5",
+        "83007e60627645dea693f61bd3299429",
+        "8412e6c043644e4fb6db658dae787723",
+        "9eb5e6cf2d024b18b9464483b46c5787",
+        "d5e612002aee4879a057c54e9131a2b6",
+        "e6a94ee5cb9e47b1b32c06b16d6781d5",
+        "ea908d9e411844ceaebfe74c810250ee"
+      ],
+      "names": [
+        ".ShadowRealm6861"
+      ]
+    },
+    "Matrix": {
+      "uuids": [
+        "3801ed919e034b73874c2eadfb514c17",
+        "38f59f40c0774cada6a4cd518b61b3a8",
+        "3a8170ceed62441aa91f54e075928ff7",
+        "4d89c815592f489a8183974fbb1672a2",
+        "5118d44d8d6f409bbe4f84ff9d246e27",
+        "582811e053944c78947c9e28b50762fc",
+        "59f9cebb3c4341e1be8cfa08d1851895",
+        "69883987bc7f492388e95c3f34e1c64a",
+        "7a47a4791c3e45b487425612a1e980c6",
+        "80ddc2a0e597408685d74a3b39832b72",
+        "a735ff7130764b7ba4a66b5c1588543d",
+        "c1e950a5e908498c9ed17c5a6e60d70b",
+        "cbea35043d6b422295da44013e83948a",
+        "ebdd1e1ca4ce4f4680d3af4db78db262",
+        "ede6d718c42d4255bf10bb059dbda177",
+        "f17006cdf5f042cfa51295bfff75c6dc"
+      ],
+      "names": []
+    }
+  },
+  "kos": {
+    "uuids": [],
+    "names": []
+  }
+}
